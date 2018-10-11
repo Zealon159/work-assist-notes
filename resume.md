@@ -1,17 +1,17 @@
 
 # 联系方式
 
-- 手机：15210865233  
-- Email：zealon@126.com  
+- 手机：15210865233
+- Email：zealon@126.com
 
 ---
 
 # 个人信息
 
- - 唐宇龙/男/1988 
- - 专科/北京航天航空大学计算机系 
- - Github：http://github.com/zealon159  
- - 技术博客：https://zealon.cn  
+ - 唐宇龙/男/1988
+ - 专科/北京航天航空大学计算机系
+ - Github：http://github.com/zealon159
+ - 技术博客：https://zealon.cn
 
  - 期望职位：Java开发工程师
  - 期望薪资：20k~25k
