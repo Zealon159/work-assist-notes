@@ -21,14 +21,14 @@
 # 技能清单
 
 - 熟悉 Java 面向对象编程语言，熟悉 C#，熟练使用IBM Lotus Domino语言
-- 框架：熟悉使用 Spring/SpringBoot/Mybatis/Dubbo/Zookeeper/Shiro/WebService
-- 数据库：熟悉使用 MySQL/SqlServer/Oracle/Redis/ActiveMQ
-- 前端：熟悉 HTML/Css/Bootstrap/JQuery/EasyUI/ECharts
-- IDE：Eclipse/Idea/postman
-- 应用服务器：熟悉 tomcat/nginx
+- 框架：熟悉使用 Spring / SpringBoot / Mybatis / Dubbo / Zookeeper / Shiro / WebService
+- 数据库：熟悉使用 MySQL / SqlServer / Oracle / Redis / ActiveMQ
+- 前端：熟悉 HTML / Css / Bootstrap / JQuery / EasyUI / ECharts
+- IDE：Eclipse / Idea / postman
+- 应用服务器：熟悉 tomcat / nginx
 - 操作系统：熟悉 Linux 常用命令
-- 版本管理、自动部署：熟悉使用 Svn/Git/Maven/Jenkins
-- 云开放平台：微信企业号/小程序开发/AppCan
+- 版本管理、自动部署：熟悉使用 Svn / Git / Maven / Jenkins
+- 云开放平台：微信企业号 / 小程序开发 / AppCan
 
 ---
 
