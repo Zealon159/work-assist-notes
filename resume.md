@@ -10,26 +10,25 @@
 
  - 唐宇龙/男/1988 
  - 专科/北京航天航空大学计算机系 
- - 工作年限：9年
  - Github：http://github.com/zealon159  
  - 技术博客：https://zealon.cn  
 
- - 期望职位：Java高级程序员
- - 期望薪资：税前月薪20k~25k
- - 期望城市：北京
+ - 期望职位：Java开发工程师
+ - 期望薪资：20k~25k
 
 ---
 
 # 技能清单
 
-- 编程语言：Java
-- Web框架：ThinkPHP/Yaf/Yii/Lavaral/LazyPHP
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
-- 单元测试：PHPUnit/SimpleTest/Qunit
-- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
+- 熟悉 Java 面向对象编程语言，熟悉 C#，熟练使用IBM Lotus Domino语言
+- 框架：熟悉使用 Spring/SpringBoot/Mybatis/Dubbo/zookeeper
+- 数据库：熟悉使用 MySQL/SqlServer/Oracle/Redis
+- 前端：熟悉 HTML/Css/Bootstrap/JQuery/EasyUI/EChart
+- 应用服务器：熟悉 tomcat/nginx
+- IDE：Eclipse/Idea/
+- 操作系统：熟悉 Linux 常用命令
+- 版本管理、自动部署：熟悉使用 Svn/Git/Maven/Jenkins
+- 云和开放平台：微信企业号/小程序开发/AppCan
 
 ---
 
@@ -54,7 +53,7 @@
 
 ## 自我评价
 
-
+诚信友善易相处，乐于接受挑战，有进取心，富有责任和工作热情。
 
 
 ---
